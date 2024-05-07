@@ -8,5 +8,6 @@
 public class test {
     public static void main(String[] args) {
         System.out.println("hello world4444一起");
+        System.out.println("hello world333");
     }
 }
